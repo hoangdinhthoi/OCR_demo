@@ -28,7 +28,7 @@ matplotlib==3.0.2
 mtcnn==0.0.8
 networkx==2.2
 numpy==1.16.1
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 pandas==0.24.1
 parso==0.3.3
 pexpect==4.6.0
